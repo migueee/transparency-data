@@ -1,4 +1,4 @@
 # transparency-data
-EN: Requests for public data by the transparency portal for data science projects.
+EN: Data collected from public web repositories.
 
-ES: Solicitudes de datos públicos por portal transparencia para proyectos data science.
+ES: Datos recopilados de repositorios públicos en la web.
